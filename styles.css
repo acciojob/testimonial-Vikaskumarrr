@@ -9,14 +9,14 @@
             padding: 20px;
             border: 1px solid #ccc;
             background-color: #fff;
-            margin-bottom: 20px;
+            margin-bottom:20px;
         }
 
         /* Text */
-        .testimonial-text {
+      /*  .testimonial-text {
             font-style: normal;
             line-height: 1.5;
-        }
+        
 
         /* Author */
         .testimonial-author {
